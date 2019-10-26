@@ -8,7 +8,11 @@
         "quotemark": false,
         "no-console": false,
         "semicolon": false,
-        "jsx-no-lambda": false
+        "jsx-no-lambda": false,
+        "no-trailing-whitespace": false,
+        "variable-name": {
+            "options": ["allow-snake-case"]
+        }
     },
     "rulesDirectory": [],
     "linterOptions": {
